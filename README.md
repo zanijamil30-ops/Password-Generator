@@ -4,6 +4,8 @@ A simple and secure **Password Generator** built using **Python** and **Flask**.
 This lightweight web app allows users to generate strong, customizable passwords directly in their browser — with full control over length, uppercase letters, digits, and symbols.
 
 ---
+![screenshot jpeg](https://github.com/user-attachments/assets/13b1b8be-0997-48d2-8b60-7fa3027b8bb6)
+
 
 ## 🚀 Features
 
