@@ -72,10 +72,6 @@ Click Generate Password
 
 Copy it instantly to your clipboard 🔑
 
-📸 Preview
-![WhatsApp Image 2025-10-30 at 2 54 05 PM](https://github.com/user-attachments/assets/362b5008-b981-47d5-bd63-2d96e96ecb8e)
-
-
 🧠 Author
 
 👩‍💻 Zainab Jamil
